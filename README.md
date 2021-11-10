@@ -1,73 +1,32 @@
-<a href="https://www.linkedin.com/in/marcusvmendes-webdev/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<a href="https://github.com/MarcusVMendes" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/vmendesmarcus/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/marcus.vmendes.5/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
+## Prazer, me chamo Marcus Vinicius e sou estudante de Desenvolvimento Web!
+<div align="center">
+  <a href="https://github.com/marcusvmendes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvmendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvmendes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcus-Jest" height="30" width="40" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png">
+  <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img align="center" alt="Marcus-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Marcus-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Marcus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
+  <img align="right" alt="Marcus-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
+  
+  ##
+ 
+<div>
+  <a href="https://www.linkedin.com/in/marcusvmendes-webdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5533984139476&text=Oi,%20%20venho%20por%20meio%20do%20Portf%C3%B3lio!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" target="_blank"></a>
+  <a href = "mailto:marcus.mendes89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" target="_blank"></a>
+  <a href="https://www.instagram.com/vmendesmarcus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/dmagnusz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/marcusvmendes/marcusvmendes/blob/output/github-contribution-grid-snake.svg)
+  
+  ⭐️ Baseado em [Rafaella Ballerini](https://github.com/rafaballerini)
+</div>
 
-<br />
-<br />
-
-Olá, me chamo **Marcus Vinicius Mendes**, tenho 31 anos e resido na cidade de Manhuaçu - MG. Sou formado em Administração de Empresas e atualmente estou estudando Backend na [**Trybe**](https://www.linkedin.com/school/betrybe/) 🚀. 
-
-
-
-**Sobre mim:**
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/OuMFETEGgiG6F2L3uO/giphy.gif" width="300px" />
-
-- 👨🏽‍💻 Sou uma pessoa positiva, colaborativa e minha principal caractéristica é a comunicação, tanto oral quanto escrita.
-- 🌱 Estou habituado com ambientes em constante mudança e busco sempre aprimorar meus conhecimentos
-- 🤔 Meus hobbies são jogos online, series ;
-- 📫 Por favor, envie um email para [**marcus.mendes89@gmail.com**](mailto:marcus.mendes89@gmail.com) para me encontrar.
-- 📱 Ou se preferir envie-me uma mensagem por [**Whatsapp**](https://api.whatsapp.com/send?phone=5533984139476&text=Oi,%20%20venho%20por%20meio%20do%20Portf%C3%B3lio!) 
-- 📝 Curriculo em Breve.
-
-<br />
-<br />
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</p>
-
-
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</p>
-
-**Proximos aprendizados:**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=marcusvmendes&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="marcus vinicius" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvmendes&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
-</p>
-
-<br />
-<br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusvmendes" alt="marcusvmendes" /> </p>
-
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
