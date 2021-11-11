@@ -1,5 +1,14 @@
 ## Prazer, me chamo Marcus Vinicius e sou estudante de Desenvolvimento Web!
-<div style="display: inline" align="center">
+
+- 🔭 Buscando sempre evoluir na área de desenvolvimento
+- 💻 Formado em Administração de Empresas
+- 📚 Estudando Docker e MongoDB
+- 🚀 "Pra cima!"
+- 🎮 Gamer
+
+"Inteligência é a capacidade de se adaptar à mudança." Stephen Hawking.
+
+<div style="display: inline" align="center">  
   <a href="https://github.com/marcusvmendes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusvmendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvmendes&layout=compact&langs_count=7&theme=dracula"/>
