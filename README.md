@@ -2,7 +2,7 @@
 
 - 🔭 Buscando sempre evoluir na área de desenvolvimento
 - 💻 Formado em Administração de Empresas
-- 📚 Estudando Docker e MongoDB
+- 📚 Estudando NodeJS com Express
 - 🚀 "Pra cima!"
 - 🎮 Gamer
 
