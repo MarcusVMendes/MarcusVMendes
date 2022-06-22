@@ -2,7 +2,7 @@
 
 - 🔭 Buscando sempre evoluir na área de desenvolvimento
 - 💻 Formado em Administração de Empresas
-- 📚 Estudando NodeJS com Express
+- 📚 Iniciando os estudos em TypeScript
 - 🚀 "Pra cima!"
 - 🎮 Gamer
 
