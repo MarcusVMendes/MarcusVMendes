@@ -34,8 +34,9 @@
   <a href="https://www.instagram.com/vmendesmarcus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank"></a>
  	<a href="https://www.twitch.tv/dmagnusz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" target="_blank"></a>
  
-  ![Snake animation](https://github.com/marcusvmendes/marcusvmendes/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
-  ⭐️ Baseado em [Rafaella Ballerini](https://github.com/rafaballerini)
+  ⭐️ Baseado em [Platane](https://github.com/Platane/Platane)
 </div>
 
