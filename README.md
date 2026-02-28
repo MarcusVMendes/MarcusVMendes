@@ -43,10 +43,8 @@ Engenheiro de Confiabilidade com foco em automação, infraestrutura como códig
 
 ### 🔐 Boas práticas
 - GitOps
-- Blue/Green & Canary Deployments
 - Monitoramento orientado a SLO/SLI
 - Troubleshooting avançado
-- Hardening básico de servidores
 
 ---
 
