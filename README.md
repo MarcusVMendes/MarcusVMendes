@@ -22,26 +22,22 @@ Engenheiro de Confiabilidade com foco em automação, infraestrutura como códig
 - Kubernetes
 - Helm
 - Docker
-- Kustomize
 
 ### 🔁 CI/CD
 - Jenkins
 - GitHub Actions
-- GitLab CI
 
 ### 🏗️ Infraestrutura como Código
 - Terraform
-- Ansible
 
 ### 📊 Observabilidade
 - Prometheus
 - Grafana
 - Alertmanager
-- Loki
 
 ### ☁️ Cloud & Infra
 - AWS
-- NGINX
+- OCI
 - Linux (Debian/Ubuntu/CentOS)
 - Bash scripting
 
@@ -72,8 +68,8 @@ Construir e manter sistemas confiáveis, escaláveis e automatizados, reduzindo 
 
 ## 📫 Contato
 
-- LinkedIn: (seu link aqui)
-- Email: (seu email aqui)
+- LinkedIn: https://www.linkedin.com/in/marcusvmendes-dev/
+- Email: marcus.mendes89@gmail.com
 
 ---
 
