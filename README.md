@@ -1,35 +1,80 @@
-## Prazer, me chamo Marcus Vinicius e sou estudante de Desenvolvimento Web!
+# Marcus Vinicius
 
-- 🔭 Buscando sempre evoluir na área de desenvolvimento
-- 💻 Formado em Administração de Empresas
-- 📚 Iniciando os estudos em TypeScript
-- 🚀 "Pra cima!"
-- 🎮 Gamer
+## 🚀 Site Reliability Engineer (SRE)
 
-"Inteligência é a capacidade de se adaptar à mudança." Stephen Hawking.
- 
-<div>
-  <a href="https://www.linkedin.com/in/marcusvmendes-webdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5533984139476&text=Oi,%20%20venho%20por%20meio%20do%20Portf%C3%B3lio!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" target="_blank"></a>
-  <a href = "mailto:marcus.mendes89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" target="_blank"></a>
-  <a href="https://www.instagram.com/vmendesmarcus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank"></a>
- 	<a href="https://www.twitch.tv/dmagnusz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" target="_blank"></a>
- 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MarcusVMendes/MarcusVMendes/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MarcusVMendes/MarcusVMendes/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/MarcusVMendes/MarcusVMendes/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-  
-  ⭐️ Baseado em [Platane](https://github.com/Platane/Platane)
-</div>
+Engenheiro de Confiabilidade com foco em automação, infraestrutura como código, observabilidade e alta disponibilidade. Experiência prática construindo e mantendo ambientes resilientes, escaláveis e automatizados.
 
+---
+
+## 🧠 Sobre mim
+
+- Forte atuação em ambientes Linux
+- Cultura DevOps aplicada na prática
+- Automação > trabalho manual
+- Foco em disponibilidade, performance e redução de MTTR
+- Infraestrutura versionada e auditável
+
+---
+
+## 🛠️ Stack Principal
+
+### ☸️ Orquestração & Containers
+- Kubernetes
+- Helm
+- Docker
+- Kustomize
+
+### 🔁 CI/CD
+- Jenkins
+- GitHub Actions
+- GitLab CI
+
+### 🏗️ Infraestrutura como Código
+- Terraform
+- Ansible
+
+### 📊 Observabilidade
+- Prometheus
+- Grafana
+- Alertmanager
+- Loki
+
+### ☁️ Cloud & Infra
+- AWS
+- NGINX
+- Linux (Debian/Ubuntu/CentOS)
+- Bash scripting
+
+### 🔐 Boas práticas
+- GitOps
+- Blue/Green & Canary Deployments
+- Monitoramento orientado a SLO/SLI
+- Troubleshooting avançado
+- Hardening básico de servidores
+
+---
+
+## 📂 Interesses Técnicos
+
+- Alta disponibilidade e escalabilidade
+- Kubernetes em produção
+- Automação de ambientes
+- Observabilidade e engenharia de confiabilidade
+- Arquiteturas distribuídas
+
+---
+
+## 📈 Objetivo
+
+Construir e manter sistemas confiáveis, escaláveis e automatizados, reduzindo risco operacional e aumentando previsibilidade.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (seu link aqui)
+- Email: (seu email aqui)
+
+---
+
+> "Automatize tudo que for repetitivo. Monitore tudo que for crítico. Documente tudo que for importante."
